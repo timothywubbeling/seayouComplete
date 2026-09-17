@@ -1,0 +1,11 @@
+{
+  "secret": "IhlsPJw0WA35eJT5x29fbJfSDbn0xktEE3F3xdlnZ7s=",
+  "users": {
+    "admin": {
+      "salt": "AUHcKFwpT4V3zy46MJooLA==",
+      "hash": "LDogtn9TxSeYxY+63pI5E/5gnvU6LgP8k6T9BggdTRM=",
+      "role": "pilot",
+      "created": 1789413439.3110921
+    }
+  }
+}
